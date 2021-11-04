@@ -12,6 +12,6 @@ For example;
 * Array of colors[10] = {1,2,1,3,4,2,5,4,1,3}
 * Pairs returned: 4
 
-*Point to note:* We have come up with 1 pair of color 1, 1 pair of color 2, 1 pair of color 3, and 1 pair of color 4 hence 3 pairs.
+*Point to note:* We have come up with 1 pair of color 1, 1 pair of color 2, 1 pair of color 3, and 1 pair of color 4 hence 4 pairs.
 
 If you would like to understand the scenario and its interpretation more, visit https://www.hackerrank.com/challenges/sock-merchant/problem
