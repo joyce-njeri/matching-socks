@@ -8,9 +8,9 @@ There is a total number of socks found in the pile and an array representing the
 
 For example;
 
-  number of socks: 10
-  Array of colors[10] = {1,2,1,3,4,2,5,4,1,3}
-  Pairs returned: 4
+* number of socks: 10
+* Array of colors[10] = {1,2,1,3,4,2,5,4,1,3}
+* Pairs returned: 4
 
 *Point to note:* We have come up with 1 pair of color 1, 1 pair of color 2, 1 pair of color 3, and 1 pair of color 4 hence 3 pairs.
 
